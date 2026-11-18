@@ -20,3 +20,15 @@ Tarif rank diasumsikan sebagai harga per bintang berdasarkan format price list. 
 
 ## Keamanan pembayaran
 QRIS ditampilkan dari gambar yang kamu berikan. Pelanggan perlu memeriksa nama merchant `JK.BOR MLBB, GAMING` pada aplikasi pembayaran sebelum membayar. Website ini belum memverifikasi status pembayaran secara otomatis.
+
+
+## Ikon rank
+Ikon rank pada daftar harga menggunakan gambar rank yang diberikan pemilik JK.BOR dan disimpan di folder `rank-icons/`. Jangan hapus folder tersebut saat upload ke GitHub.
+
+
+## Ikon rank resmi
+Folder `rank-icons/` memakai potongan ikon transparan dari gambar rank asli yang diberikan:
+- warrior.png, elite.png, master.png, grandmaster.png
+- epic.png, legend.png, mythic.png, mythic-honor.png
+
+Ikon Epic, Legend, Mythic, Honor, Glory, dan Immortal pada daftar harga menggunakan emblem resmi yang sesuai dari lembar ikon sumber. Untuk sub-tier Mythic yang tidak memiliki ikon terpisah di gambar sumber, emblem Mythic yang tersedia digunakan kembali.
